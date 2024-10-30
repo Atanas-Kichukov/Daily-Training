@@ -41,7 +41,6 @@ public class Main {
         }
         if(sum<0){
             System.out.println(-1);
-            return;
         }
         System.out.println(minFuel);
     }
